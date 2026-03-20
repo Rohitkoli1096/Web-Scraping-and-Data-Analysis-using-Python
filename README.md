@@ -122,14 +122,6 @@ open index.html
 **Rohit Devidas Koli**
 TechnoHack Internship
 
----
-
-## 📜 License
-
-MIT License
-
----
-
 ## ⭐ Acknowledgement
 
-Thanks to **TechnoHack** for providing this internship opportunity.
+Thanks to **@TechnoHack** for providing this internship opportunity.
