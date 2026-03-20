@@ -25,9 +25,9 @@ The data is collected from a sample e-commerce website and transformed into stru
 - Matplotlib  
 
 ---
-
 ## 📂 Project Structure
 
+```bash
 Web-Scraping-and-Data-Analysis-using-Python/
 │
 ├── Task_1.py
@@ -43,6 +43,7 @@ Web-Scraping-and-Data-Analysis-using-Python/
 │   ├── rating_chart.png
 │
 ├── report.docx
+```
 
 ---
 
