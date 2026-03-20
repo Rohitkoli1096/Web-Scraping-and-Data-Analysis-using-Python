@@ -24,26 +24,29 @@ The data is collected from a sample e-commerce website and transformed into stru
 - Pandas  
 - Matplotlib  
 
----
 ## 📂 Project Structure
 
 ```bash
 Web-Scraping-and-Data-Analysis-using-Python/
 │
-├── Task_1.py
-├── Task_2.py
-├── Task_3.py
-├── Task_4.py
+├── Task_1.py              # Web Scraping
+├── Task_2.py              # EDA + Data Cleaning
+├── Task_3.py              # Data Visualization
+├── Task_4.py              # Sentiment Analysis
 │
-├── data/
+├── data/                  # Dataset files
 │   ├── books_data.csv
+│   ├── cleaned_books_data.csv
 │   ├── books_with_sentiment.csv
 │
-├── outputs/
+├── outputs/               # Graphs / charts
 │   ├── rating_chart.png
 │
-├── report.docx
+├── report.docx            # Final report (Word file)
+├── README.md              # Project documentation
+├── requirements.txt       # Dependencies
 ```
+
 
 ---
 
